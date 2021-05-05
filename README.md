@@ -1,6 +1,6 @@
 # Eyes Exercise
 
-MIT xPRO Week 8: Introduction to JavaScript
+MIT xPRO Week 8: Styles and Bootstrap
 
 # Description
 
